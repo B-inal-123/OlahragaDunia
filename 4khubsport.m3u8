@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://alpha5-bx.me:80/play/live.php?mac=00:1A:79:00:04:10&stream=1470619&extension=ts
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554979&extension=ts
