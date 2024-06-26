@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://tv.cloudcdn.me:80/live.ts?channelId=129128&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:6F:0A:A9&stream=1470622&extension=ts
