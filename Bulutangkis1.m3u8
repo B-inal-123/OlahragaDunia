@@ -6,5 +6,6 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXTINF:1,
 http://tv.cloudcdn.me:80/live.ts?channelId=125432&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:1.656,
 http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
 
