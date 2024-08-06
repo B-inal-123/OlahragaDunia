@@ -8,3 +8,5 @@
 http://links-tv.com:8789/play/live.php?mac=00:1A:79:00:00:02&stream=485785&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1920x1020,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
 http://mag.abcdxyz.one/play/live.php?mac=00:1A:79:17:1E:06&stream=461321&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5300000,AVERAGE-BANDWIDTH=5191434,RESOLUTION=1920x1020,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
+http://luxe-4k.xyz:80/play/live.php?mac=00:1A:79:B6:36:E4&stream=485785&extension=m3u8
