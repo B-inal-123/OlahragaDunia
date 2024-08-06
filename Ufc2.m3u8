@@ -5,4 +5,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXT-X-STREAM-INF:BANDWIDTH=4300000,AVERAGE-BANDWIDTH=3191434,RESOLUTION=1020x720,FRAME-RATE=40.000,CODECS="avc1.77.30,mp4a.40.5",AUDIO="audio_0"
-http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=26076&extension=m3u8
+http://luxe-4k.xyz:80/play/live.php?mac=00:1A:79:B6:36:E4&stream=11991&extension=m3u8
+
